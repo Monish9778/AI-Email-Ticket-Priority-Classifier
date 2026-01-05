@@ -1,0 +1,10 @@
+text,priority
+server down urgent,high
+website not loading,high
+payment failed error,high
+login issue,medium
+password reset required,medium
+unable to access account,medium
+feature request,low
+add dark mode,low
+general enquiry,low
